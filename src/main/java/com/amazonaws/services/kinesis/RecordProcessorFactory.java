@@ -1,4 +1,4 @@
-package com.amazonaws.servcies.kinesis;
+package com.amazonaws.services.kinesis;
 /*
  * Copyright 2012-2014 Amazon.com, Inc. or its affiliates. All Rights Reserved.
  *
